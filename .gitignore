@@ -1,0 +1,31 @@
+node_modules/
+.nuxt/
+.nuxt-test/
+.nuxt-production/
+.nuxt-showcase/
+.output-showcase/
+.output/
+.output-test/
+.data/
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
+playwright-report/
+test-results/
+/dist
+
+# Local working notes and recruitment material stay outside the submission.
+/AGENTS.md
+/docs/*
+!/docs/usage.md
+!/docs/media/
+!/docs/screenshots/
+/task-requirements/*
+!/task-requirements/fintech_companies_seed.csv
+# Private credential files.
+*.pem
+*.key
+*.p12
+*.pfx

@@ -1,0 +1,5 @@
+Industries,Total Raised,Company,Description,Region,Employees,Website,Extra
+Health technology,"£1,500,000",Care Orchard,Develops remote patient monitoring software.,North West,10-24,https://example.com/care,ignored
+Medical devices,3000000,Pulse Works,Builds diagnostic devices for clinics.,South West,N/A,https://example.com/pulse,ignored
+Health technology,1500000,Well Spring,Provides digital tools for care teams.,North West,<5,,ignored
+Medical devices,0,Clinic Field,Develops clinical support tools.,,N/A,,ignored

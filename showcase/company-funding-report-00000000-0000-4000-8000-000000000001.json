@@ -1,0 +1,1636 @@
+{
+  "schemaVersion": 1,
+  "id": "00000000-0000-4000-8000-000000000001",
+  "slug": "company-funding-report-00000000-0000-4000-8000-000000000001",
+  "createdAt": "2026-11-02T00:00:00.000Z",
+  "sourceFilename": "fintech_companies_seed.csv",
+  "rankingSource": "supplied",
+  "importNotes": [],
+  "companies": [
+    {
+      "rank": 1,
+      "company": "Nevis",
+      "totalRaisedPence": 3031424700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Nevis develops an AI platform for wealth management.",
+      "website": "https://www.neviswealth.com/",
+      "industries": [
+        "Application software",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 2,
+      "company": "Januus.io",
+      "totalRaisedPence": 2794943600,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Januus.io develops a cryptowallet-to-identity database which provides ownership data for cryptocurrency assets, wallets and transactions.",
+      "website": "https://januus.io/",
+      "industries": [
+        "Application software",
+        "Data management",
+        "Data provision and analysis",
+        "Risk and compliance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 3,
+      "company": "Adfin",
+      "totalRaisedPence": 2422297300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Adfin develops an online platform which aims to reduce the administrative burden of invoicing and payments for businesses.",
+      "website": "https://www.adfin.com/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Budgeting and financial management",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 4,
+      "company": "TreeCard",
+      "totalRaisedPence": 2366566200,
+      "region": "South West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "TreeCard develops wooden bank cards and a mobile app that enables users to track their spending and utilises surcharge profits to fund reforestation programmes.",
+      "website": "https://www.treecard.org/",
+      "industries": ["Application software", "Banking"]
+    },
+    {
+      "rank": 5,
+      "company": "BLEND Network",
+      "totalRaisedPence": 2000000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "BLEND Network operates a P2P website that connect lenders with those looking to borrow in order to purchase property.",
+      "website": "https://blendnetwork.com/",
+      "industries": ["Application software", "Loans, debt and grants"]
+    },
+    {
+      "rank": 6,
+      "company": "TuningBill",
+      "totalRaisedPence": 1909461800,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "TuningBill develops a cross-border invoice discounting tool for investors, buyers and sellers, aiming to allow users to evaluate foreign exchange risks and facilitate discounts for preferred suppliers.",
+      "website": "https://www.tuningbill.com/",
+      "industries": ["Application software", "Banking", "Payment processing"]
+    },
+    {
+      "rank": 7,
+      "company": "nsave",
+      "totalRaisedPence": 1654845300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "nsave operates global banking accounts for transferring money and investing.",
+      "website": "https://www.nsave.com/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Payment processing",
+        "Trading platforms"
+      ]
+    },
+    {
+      "rank": 8,
+      "company": "Nous",
+      "totalRaisedPence": 1536871800,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "50-99",
+      "description": "Nous develops software designed to help users track household bills and planned price rises for utilities and service providers, using AI to suggest potential steps users can take to save money.",
+      "website": "https://www.nous.co/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data provision and analysis"
+      ]
+    },
+    {
+      "rank": 9,
+      "company": "capsa.ai",
+      "totalRaisedPence": 1522000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "capsa.ai develops AI software for private equity firms which aims to accelerate the due diligence process through automating reporting and analysis.",
+      "website": "https://capsa.ai/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Private equity and venture capital",
+        "Risk and compliance",
+        "Robots and automation",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 10,
+      "company": "Outpost",
+      "totalRaisedPence": 1300000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Outpost develops an automated Merchant of Record and Tax of Record platform.",
+      "website": "https://outpost.ai/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Data provision and analysis",
+        "Lead generation and sales support",
+        "Payment processing",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 11,
+      "company": "Ooodles",
+      "totalRaisedPence": 1182326300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Ooodles rents technology devices, such as laptops, computers and phones to businesses.",
+      "website": "https://www.ooodles.com/",
+      "industries": [
+        "Application software",
+        "Electronics hardware",
+        "Mobile, internet and wireless hardware",
+        "Product rental and hire",
+        "Technology consultancy and IT and telecommunications support"
+      ]
+    },
+    {
+      "rank": 12,
+      "company": "Lopay",
+      "totalRaisedPence": 1134315300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Lopay develops a payment processor and software for retail vendors.",
+      "website": "https://lopay.com/",
+      "industries": ["Application software", "Payment processing"]
+    },
+    {
+      "rank": 13,
+      "company": "DoorFeed",
+      "totalRaisedPence": 1047857300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "DoorFeed develops a platform that provides investment funds with end-to-end management and analysis of their large-scale property portfolios.",
+      "website": "https://www.doorfeed.com/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Property and land assets investment"
+      ]
+    },
+    {
+      "rank": 14,
+      "company": "Blanche Wealth",
+      "totalRaisedPence": 1022825100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": null,
+      "description": "Blanche Wealth develops AI-based wealth management software, using conversational agents which aim to offer personalised financial guidance to a wider range of people.",
+      "website": "https://www.blanchewealth.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data provision and analysis",
+        "Robots and automation",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 15,
+      "company": "Clove Group",
+      "totalRaisedPence": 1000000000,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Clove Group develops technology for broadening access to financial advice.",
+      "website": "https://www.clove.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 16,
+      "company": "multifi",
+      "totalRaisedPence": 999999900,
+      "region": "South West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "multifi provides small and medium businesses with flexible credit limits.",
+      "website": "https://multifi.co.uk/",
+      "industries": ["Application software", "Loans, debt and grants"]
+    },
+    {
+      "rank": 17,
+      "company": "illio",
+      "totalRaisedPence": 905865100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "illio develops a cloud-based investment platform and mobile app, designed to help investors make well informed investment choices.",
+      "website": "https://www.illio.com/",
+      "industries": [
+        "Application software",
+        "Data management",
+        "Data provision and analysis",
+        "Risk and compliance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 18,
+      "company": "Infact",
+      "totalRaisedPence": 850000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Infact develops a financial services platform that allows lenders to search, store, and analyse credit information.",
+      "website": "https://infact.io/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Credit ratings and scores",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Loans, debt and grants",
+        "Risk and compliance"
+      ]
+    },
+    {
+      "rank": 19,
+      "company": "Penny",
+      "totalRaisedPence": 819997800,
+      "region": "South West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Penny develops a mobile app which utilises AI to find users' different pension pots and transfers and displays them in one place.",
+      "website": "https://pennypension.com/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Banking",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 20,
+      "company": "Agio Ratings",
+      "totalRaisedPence": 814573000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Agio Ratings develops risk analytics and monitoring software for digital assets, enabling risk pricing.",
+      "website": "https://www.agioratings.io/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Risk and compliance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 21,
+      "company": "Tokenovate",
+      "totalRaisedPence": 799999300,
+      "region": "East of England",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Tokenovate develops software designed to allow users to manage their digital asset and smart contract trades.",
+      "website": "https://www.tokenovate.com/",
+      "industries": [
+        "Application software",
+        "Investment banking and corporate finance",
+        "Risk and compliance",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 22,
+      "company": "Alvara Protocol",
+      "totalRaisedPence": 770362600,
+      "region": "London",
+      "stage": "Seed",
+      "employees": null,
+      "description": "Alvara develops and manages onchain basket tokens and a protocol ecosystem for creating and trading tokenized portfolios.",
+      "website": "https://alvara.xyz/",
+      "industries": [
+        "Application software",
+        "Currency exchange",
+        "Technology consultancy and IT and telecommunications support"
+      ]
+    },
+    {
+      "rank": 23,
+      "company": "Translucent",
+      "totalRaisedPence": 770000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Translucent develops an accounting platform that integrates with existing financial apps and systems, with the aim of consolidating financial data into one place.",
+      "website": "https://www.translucent.io/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Budgeting and financial management",
+        "Data management",
+        "Data provision and analysis"
+      ]
+    },
+    {
+      "rank": 24,
+      "company": "Simpler.",
+      "totalRaisedPence": 756541400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Simpler. develops integrated one-click checkout software that generates a single online shopper identity for consumers across all sites, aiming to support checkout conversions for online retailers.",
+      "website": "https://www.simpler.so/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Lead generation and sales support",
+        "Online retailing",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 25,
+      "company": "Boson Protocol",
+      "totalRaisedPence": 755184400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Boson Protocol operates a marketplace designed to allow users to trade real products and services with blockchain.",
+      "website": "https://www.bosonprotocol.io/",
+      "industries": ["Application software", "Online marketplace"]
+    },
+    {
+      "rank": 26,
+      "company": "Merge",
+      "totalRaisedPence": 751237500,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Merge develops an online banking platform which aims to provide banking and payment solutions for web3 and crypto companies.",
+      "website": "https://www.merge.money/",
+      "industries": ["Application software", "Banking", "Payment processing"]
+    },
+    {
+      "rank": 27,
+      "company": "Abbeycross",
+      "totalRaisedPence": 723860200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Abbeycross operates a trading and compliance marketplace for businesses, specialising in emerging market currencies",
+      "website": "https://www.abbeycross.com/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Payment processing",
+        "Risk and compliance",
+        "Trading platforms"
+      ]
+    },
+    {
+      "rank": 28,
+      "company": "QFEX",
+      "totalRaisedPence": 700000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "QFEX develops a trading platform that enables users to buy and sell equities, commodities, forex, and perpetual futures.",
+      "website": "https://www.qfex.com/",
+      "industries": ["Application software", "Trading platforms"]
+    },
+    {
+      "rank": 29,
+      "company": "ABEX",
+      "totalRaisedPence": 693897100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "ABEX develops a software platform which aims to use machine learning to optimise cryptocurrency trading.",
+      "website": "https://www.abex.capital/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Data provision and analysis",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 30,
+      "company": "Palm",
+      "totalRaisedPence": 669270200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Palm develops a treasury management software platform which uses artificial intelligence (AI).",
+      "website": "https://www.usepalm.com/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Data provision and analysis",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 31,
+      "company": "PawaPay",
+      "totalRaisedPence": 657767700,
+      "region": "South East",
+      "stage": "Seed",
+      "employees": "100-249",
+      "description": "PawaPay develops a mobile payment processing API for businesses.",
+      "website": "https://www.pawapay.co.uk/",
+      "industries": ["Application software", "Payment processing"]
+    },
+    {
+      "rank": 32,
+      "company": "Five",
+      "totalRaisedPence": 641090200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Five develops a device which uses palm recognition for payments.",
+      "website": "https://five.id/",
+      "industries": [
+        "Electronics hardware",
+        "Embedded systems",
+        "Payment processing",
+        "Rewards, loyalty schemes and vouchers"
+      ]
+    },
+    {
+      "rank": 33,
+      "company": "Fortify Solutions",
+      "totalRaisedPence": 637289200,
+      "region": "East of England",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Fortify Solutions develops fraud prevention software and provides fraud and risk consultancy services for financial institutions.",
+      "website": "https://www.wearefortify.ai/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Management and strategy consultancy",
+        "Risk and compliance",
+        "Security and surveillance",
+        "Technology consultancy and IT and telecommunications support"
+      ]
+    },
+    {
+      "rank": 34,
+      "company": "Fae",
+      "totalRaisedPence": 611499900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Fae develops a personal money companion to improve financial wellbeing.",
+      "website": "https://www.askfae.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management"
+      ]
+    },
+    {
+      "rank": 35,
+      "company": "FarmLend",
+      "totalRaisedPence": 609588400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "FarmLend operates a digital platform that provide financial services, such as supply management and contract negotiations.",
+      "website": "https://www.farmlend.co.uk/",
+      "industries": [
+        "Agriculture, land farming and forestry",
+        "Application software",
+        "Budgeting and financial management",
+        "Loans, debt and grants",
+        "Property and land assets investment"
+      ]
+    },
+    {
+      "rank": 36,
+      "company": "PlannerPal",
+      "totalRaisedPence": 585765600,
+      "region": "South West",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "PlannerPal develops AI-based software for financial advisers, automating administrative tasks such as meeting notes, client reports, and CRM updates.",
+      "website": "https://www.plannerpal.co.uk/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Budgeting and financial management",
+        "Data provision and analysis",
+        "Robots and automation",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 37,
+      "company": "Cloud Capital",
+      "totalRaisedPence": 580472700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Cloud Capital develops cloud financial management software that provides forecasting, cost optimisation, and risk mitigation.",
+      "website": "https://www.cloudcapital.co/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Budgeting and financial management",
+        "Data management",
+        "Data provision and analysis",
+        "Risk and compliance",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 38,
+      "company": "Seva Money",
+      "totalRaisedPence": 564293000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Seva operates a remittance platform, providing financial and healthcare services to receivers of remittances.",
+      "website": "https://seva.money/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Emergency services",
+        "Hospitals and clinics",
+        "Insurance",
+        "Medical doctors",
+        "Payment processing",
+        "Rewards, loyalty schemes and vouchers"
+      ]
+    },
+    {
+      "rank": 39,
+      "company": "Mercuryo",
+      "totalRaisedPence": 538924700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "250-499",
+      "description": "Mercuryo develops a platform for fiat and crypto currencies, providing a range of services such as payment processing, currency exchange and scam protection.",
+      "website": "https://mercuryo.io/",
+      "industries": [
+        "Application software",
+        "Data management",
+        "Data provision and analysis",
+        "Payment processing",
+        "Risk and compliance",
+        "Security and surveillance"
+      ]
+    },
+    {
+      "rank": 40,
+      "company": "SSV SmartPay",
+      "totalRaisedPence": 535904900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "SSV SmartPay develops payment processing software, including QR and WhatsApp-based payments.",
+      "website": "https://ssvsmartpay.co/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Payment processing",
+        "Rewards, loyalty schemes and vouchers"
+      ]
+    },
+    {
+      "rank": 41,
+      "company": "Extended",
+      "totalRaisedPence": 520461300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Extended develops a cryptocurrency exchange platform.",
+      "website": "https://extended.exchange/",
+      "industries": [
+        "Application software",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 42,
+      "company": "Montis Group",
+      "totalRaisedPence": 517260700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Montis Group develops software for the management of digital assets.",
+      "website": "https://montis.digital/",
+      "industries": [
+        "Application software",
+        "Payment processing",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 43,
+      "company": "keyzy",
+      "totalRaisedPence": 500001600,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "keyzy develops software designed to help home buyers purchase property through a rent-to-own model.",
+      "website": "https://www.keyzy.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Legal services",
+        "Loans, debt and grants",
+        "Property and land assets investment"
+      ]
+    },
+    {
+      "rank": 44,
+      "company": "Bourn",
+      "totalRaisedPence": 500000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Bourn develops financial software for banks using AI, provide risk management, ERP integrations and open accounting services for working capital finances.",
+      "website": "https://www.bourn.ai/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Robots and automation",
+        "Security and surveillance"
+      ]
+    },
+    {
+      "rank": 45,
+      "company": "Rho Labs",
+      "totalRaisedPence": 493751800,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Rho Labs develops an on-chain rates market platform.",
+      "website": "https://www.rho.trading/",
+      "industries": [
+        "Application software",
+        "Currency exchange",
+        "Trading platforms"
+      ]
+    },
+    {
+      "rank": 46,
+      "company": "Damisa Technologies",
+      "totalRaisedPence": 474909500,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Damisa Technologies develops a platform for businesses to manage international payments using stablecoins and local currencies, aiming to streamline transactions and reduce currency exchange costs.",
+      "website": "https://damisa.xyz/",
+      "industries": [
+        "Application software",
+        "Currency exchange",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 47,
+      "company": "Keyring Network",
+      "totalRaisedPence": 471443400,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Keyring Network develops tools designed to help financial service providers meet blockchain compliance.",
+      "website": "https://keyring.network/",
+      "industries": [
+        "Application software",
+        "Investment banking and corporate finance",
+        "Risk and compliance"
+      ]
+    },
+    {
+      "rank": 48,
+      "company": "Diesta",
+      "totalRaisedPence": 461687600,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Diesta operates an online platform designed to automate and improve the processing of insurance payments.",
+      "website": "https://www.diesta.co.uk/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Insurance",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 49,
+      "company": "Benford",
+      "totalRaisedPence": 430000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Benford provides statutory audits to companies using its own software platform, which connects to clients' accounting systems and automates data collection and testing.",
+      "website": "https://benford.tech/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Data provision and analysis",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 50,
+      "company": "The London BTC Company",
+      "totalRaisedPence": 419819900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "The London BTC Company operates decentralized Bitcoin mining infrastructure and invests in digital asset markets.",
+      "website": "https://ldnbtc.com/",
+      "industries": ["Application software", "Data centres"]
+    },
+    {
+      "rank": 51,
+      "company": "Tangible",
+      "totalRaisedPence": 409537300,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Tangible develops an AI-based secondary transactions auction and marketplace platform for LPs, GPs and wealth managers.",
+      "website": "https://www.tangible-markets.com/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Private equity and venture capital",
+        "Risk and compliance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 52,
+      "company": "Sablier",
+      "totalRaisedPence": 398443600,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Sablier develops token distribution infrastructure for the crypto industry.",
+      "website": "https://sablier.com/",
+      "industries": ["Application software", "Banking"]
+    },
+    {
+      "rank": 53,
+      "company": "Scroll Finance",
+      "totalRaisedPence": 395114900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Scroll Finance develops an online platform providing loans for landlords and homeowners.",
+      "website": "https://www.scrollfinance.com/",
+      "industries": [
+        "Application software",
+        "Home and garden",
+        "Loans, debt and grants",
+        "Property and land assets management"
+      ]
+    },
+    {
+      "rank": 54,
+      "company": "Oxford Frontier",
+      "totalRaisedPence": 387148400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Oxford Frontier provides digital and fintech consultancy services for developing markets.",
+      "website": "https://oxfordfrontier.com/",
+      "industries": [
+        "Investment banking and corporate finance",
+        "Management and strategy consultancy",
+        "Technology consultancy and IT and telecommunications support"
+      ]
+    },
+    {
+      "rank": 55,
+      "company": "Ontik",
+      "totalRaisedPence": 380646400,
+      "region": "Wales",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Ontik develops a trade credit platform for businesses aiming to improve efficiency of trade account management.",
+      "website": "https://www.ontik.io/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Payment processing",
+        "Risk and compliance",
+        "Robots and automation",
+        "Trading platforms"
+      ]
+    },
+    {
+      "rank": 56,
+      "company": "OpenCover",
+      "totalRaisedPence": 368730000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "OpenCover provides insurance cover for blockchain portfolios through a range of vetted underwriters, as well as price comparison tools.",
+      "website": "https://opencover.com/",
+      "industries": ["Application software", "Data aggregation", "Insurance"]
+    },
+    {
+      "rank": 57,
+      "company": "Profit.com",
+      "totalRaisedPence": 363572000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "Profit.com develops a number of software tools for traders.",
+      "website": "https://profit.com/",
+      "industries": [
+        "Application software",
+        "Investment banking and corporate finance",
+        "Trading platforms"
+      ]
+    },
+    {
+      "rank": 58,
+      "company": "Paraglide",
+      "totalRaisedPence": 360000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Paraglide provides AI tools to support businesses in invoice management and customer communications.",
+      "website": "https://www.paraglide.ai/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 59,
+      "company": "Portfolio",
+      "totalRaisedPence": 345777200,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "50-99",
+      "description": "Portfolio provides a platform for investment into property through a mobile app.",
+      "website": "https://portfolio.co.uk/",
+      "industries": [
+        "Application software",
+        "Property and land assets investment"
+      ]
+    },
+    {
+      "rank": 60,
+      "company": "Synthex",
+      "totalRaisedPence": 315974400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Synthex develops agentic software for the financial services industry.",
+      "website": "https://synthexhq.com/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Investment banking and corporate finance",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 61,
+      "company": "Qwil",
+      "totalRaisedPence": 310499800,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Qwil develops software designed to enable secure instant messaging between businesses and their clients.",
+      "website": "https://www.qwil.io/",
+      "industries": ["Application software", "Social media"]
+    },
+    {
+      "rank": 62,
+      "company": "Afternoon Finance",
+      "totalRaisedPence": 308883300,
+      "region": "West of Scotland",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Afternoon Finance develops an AI platform that can automate data collection, administration and analysis within the financial advisory industry.",
+      "website": "https://www.afternoon.co.uk/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Data management",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 63,
+      "company": "Jarvis",
+      "totalRaisedPence": 305746900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Jarvis develops a mobile app which aims to allow users to take control of and understand their pensions.",
+      "website": "https://getjarvis.app/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data provision and analysis"
+      ]
+    },
+    {
+      "rank": 64,
+      "company": "BoomFi",
+      "totalRaisedPence": 301426000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "BoomFi operates a crypto payment system through blockchain and traditional mediums, utilising web3.",
+      "website": "https://www.boomfi.xyz/",
+      "industries": ["Application software", "Payment processing"]
+    },
+    {
+      "rank": 65,
+      "company": "Artifact AI",
+      "totalRaisedPence": 298265500,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Artifact AI develops an AI accounting platform.",
+      "website": "https://www.getartifact.com/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Data provision and analysis",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 66,
+      "company": "Alte",
+      "totalRaisedPence": 287066700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Alte provides an online platform which offers investment management services, focusing on the European real estate market.",
+      "website": "https://www.alteinvest.com/",
+      "industries": [
+        "Application software",
+        "Property and land assets investment",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 67,
+      "company": "Sporta",
+      "totalRaisedPence": 285180500,
+      "region": "South East",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Sporta operates a digital banking and financial platform aimed at helping sports clubs, athletes, and fans manage money and grow within the sports ecosystem.",
+      "website": "https://sporta.team/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Sports clubs",
+        "Sports venues"
+      ]
+    },
+    {
+      "rank": 68,
+      "company": "ReStabilise",
+      "totalRaisedPence": 282000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "ReStabilise develops a GBP and multi-currency stablecoin issuance platform.",
+      "website": "https://restabilise.com/",
+      "industries": [
+        "Application software",
+        "Investment banking and corporate finance"
+      ]
+    },
+    {
+      "rank": 69,
+      "company": "Inveztor",
+      "totalRaisedPence": 280495100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Inveztor operates an online platform which allows users to manage and maintain debt capital deals.",
+      "website": "https://inveztor.com/",
+      "industries": [
+        "Application software",
+        "Legal services",
+        "Loans, debt and grants",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 70,
+      "company": "Quartz",
+      "totalRaisedPence": 275000000,
+      "region": "East of England",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Quartz develops a personal banking AI that provides tailored financial insights, budgeting assistance, and spending analysis.",
+      "website": "https://myquartz.ai/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Data provision and analysis"
+      ]
+    },
+    {
+      "rank": 71,
+      "company": "Strade Base",
+      "totalRaisedPence": 273000200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Strade Base develops a music royalties platform that aims to allow direct distribution and fundraising by artists.",
+      "website": "https://stradebasegroup.com/",
+      "industries": [
+        "Application software",
+        "Distribution and wholesale",
+        "Funding platforms",
+        "Music",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 72,
+      "company": "Hexopay",
+      "totalRaisedPence": 271000000,
+      "region": "North East",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Hexopay develops software designed to make global payment transactions easier for the gambling and managed risk sectors.",
+      "website": "https://hexopay.co.uk/",
+      "industries": [
+        "Application software",
+        "Betting and gambling",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 73,
+      "company": "Tracelight",
+      "totalRaisedPence": 270000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Tracelight develops an AI assistant plug-in for Microsoft Excel.",
+      "website": "https://tracelight.ai/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Budgeting and financial management",
+        "Data provision and analysis",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 74,
+      "company": "Numarqe",
+      "totalRaisedPence": 269856100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Numarqe provides a platform for companies to manage their corporate credit card spending.",
+      "website": "https://www.numarqe.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data management",
+        "Data provision and analysis"
+      ]
+    },
+    {
+      "rank": 75,
+      "company": "HY10",
+      "totalRaisedPence": 269219900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "25-49",
+      "description": "HY10 develops a financial platform for ultra-high-net-worth individuals to manage transactions and access perks.",
+      "website": "https://www.hy10.uk/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 76,
+      "company": "BOPP",
+      "totalRaisedPence": 267055000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "BOPP develops payment processing software using blockchain technology.",
+      "website": "https://bopp.io/",
+      "industries": ["Application software", "Payment processing"]
+    },
+    {
+      "rank": 77,
+      "company": "Intick",
+      "totalRaisedPence": 262749400,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Intick develops a software platform for block trading listed derivatives.",
+      "website": "https://www.intick.com/",
+      "industries": [
+        "Application software",
+        "Data aggregation",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 78,
+      "company": "Panta",
+      "totalRaisedPence": 260753000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Panta develops a SaaS platform that can be used by investment firms for managing financial indices and investment strategy tools.",
+      "website": "https://pantaindex.com/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 79,
+      "company": "Desia",
+      "totalRaisedPence": 258916900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Desia develops an AI productivity, automation, and analytics platform for financial services, with features that include private and public data search and the ability to generate draft documents.",
+      "website": "https://www.desia.ai/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Data provision and analysis",
+        "Private equity and venture capital",
+        "Robots and automation",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 80,
+      "company": "Jamboo",
+      "totalRaisedPence": 256407500,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Jamboo develops a banking app which aims to offer bank accounts for members of the African diaspora, as well as access to investment opportunities in Africa.",
+      "website": "https://jamboo.app/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Budgeting and financial management",
+        "Investment banking and corporate finance",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 81,
+      "company": "Fyde Treasury",
+      "totalRaisedPence": 251367700,
+      "region": "East Midlands",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Fyde Treasury develops a secure treasury management system for cryptocurrency assets.",
+      "website": "https://www.fyde.fi/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Data provision and analysis",
+        "Security and surveillance",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 82,
+      "company": "Communion",
+      "totalRaisedPence": 250000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "Communion develops an app which aims to help users build their wealth, providing users with a savings account and offering coaching and tools to encourage behaviour changes.",
+      "website": "https://www.communionsaves.com/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Tutoring, training, coaching and skills development",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 83,
+      "company": "SSImple",
+      "totalRaisedPence": 246685500,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "SSImple operates a software platform for the SSI (Standing Settlement Instruction) process within capital trading.",
+      "website": "https://ssimple.io/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data provision and analysis",
+        "Investment banking and corporate finance",
+        "Trading platforms",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 84,
+      "company": "Revax",
+      "totalRaisedPence": 246489200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Revax develops AI-based software that automates the researching and drafting of client deliverables for tax advisory businesses.",
+      "website": "https://revax.ai/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Data provision and analysis",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 85,
+      "company": "Briefcase",
+      "totalRaisedPence": 239249900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Briefcase develops an automated AI accounting platform.",
+      "website": "https://briefcase.so/",
+      "industries": [
+        "Accountancy and tax",
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Robots and automation"
+      ]
+    },
+    {
+      "rank": 86,
+      "company": "Terrapin",
+      "totalRaisedPence": 238498400,
+      "region": "East of Scotland",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Terrapin develops a platform that can be used to convert debt market documents into processable data.",
+      "website": "https://terrapinfinance.com/",
+      "industries": [
+        "Application software",
+        "Data aggregation",
+        "Investment banking and corporate finance"
+      ]
+    },
+    {
+      "rank": 87,
+      "company": "The Money Platform",
+      "totalRaisedPence": 235406200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "The Money Platform operates a website which offers peer-to-peer lending services, specialising in short-term loans.",
+      "website": "https://themoneyplatform.com/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Loans, debt and grants"
+      ]
+    },
+    {
+      "rank": 88,
+      "company": "Kana Earth",
+      "totalRaisedPence": 230653000,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Kana Earth develops a platform providing information on carbon schemes with a focus on promoting and managing investments.",
+      "website": "https://www.kana.earth/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Data aggregation",
+        "Investment banking and corporate finance",
+        "Land, water and air management"
+      ]
+    },
+    {
+      "rank": 89,
+      "company": "Riva",
+      "totalRaisedPence": 228142200,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Riva develops payment processing software for cross-border transactions.",
+      "website": "https://rivamoney.com/",
+      "industries": [
+        "Application software",
+        "Banking",
+        "Currency exchange",
+        "Payment processing"
+      ]
+    },
+    {
+      "rank": 90,
+      "company": "Paytia",
+      "totalRaisedPence": 221408900,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Paytia develops Pay729, a telephone payments system that allows customers to pay companies over the phone, without reading out their card details.",
+      "website": "https://www.paytia.com/",
+      "industries": [
+        "Application software",
+        "Payment processing",
+        "Security and surveillance"
+      ]
+    },
+    {
+      "rank": 91,
+      "company": "TomNext",
+      "totalRaisedPence": 217151700,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "TomNext develops a platform for use in alternative asset investment that helps with diligence and subscription processes.",
+      "website": "https://www.tomnext.co/",
+      "industries": [
+        "Application software",
+        "Assistants, secretaries and administrative support",
+        "Legal services",
+        "Risk and compliance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 92,
+      "company": "Payaca",
+      "totalRaisedPence": 216000500,
+      "region": "South West",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Payaca develops software designed to help tradespeople and homeowners find financing for home improvements.",
+      "website": "https://www.payaca.com/",
+      "industries": [
+        "Application software",
+        "Loans, debt and grants",
+        "Tradespeople and trade services"
+      ]
+    },
+    {
+      "rank": 93,
+      "company": "BuyMaterials",
+      "totalRaisedPence": 211110500,
+      "region": "East of Scotland",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "BuyMaterials develops and operates an online marketplace for buying a range of building materials connecting consumers and businesses.",
+      "website": "https://buymaterials.com/",
+      "industries": [
+        "Application software",
+        "Building materials, tools and accessories",
+        "Online marketplace"
+      ]
+    },
+    {
+      "rank": 94,
+      "company": "bopay",
+      "totalRaisedPence": 210556600,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "<5",
+      "description": "bopay develops a mobile app offering credit line solutions and rewards services.",
+      "website": "https://bopay.co.uk/",
+      "industries": [
+        "Application software",
+        "Credit ratings and scores",
+        "Loans, debt and grants",
+        "Rewards, loyalty schemes and vouchers"
+      ]
+    },
+    {
+      "rank": 95,
+      "company": "Native",
+      "totalRaisedPence": 204279100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Native operates an insurance brokerage firm, specialising in digital assets and cryptocurrency insurance, as well as developing an online risk transfer platform for brokers.",
+      "website": "https://www.native.inc/",
+      "industries": [
+        "Application software",
+        "Insurance",
+        "Investment banking and corporate finance",
+        "Risk and compliance",
+        "Security and surveillance",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 96,
+      "company": "Doshi",
+      "totalRaisedPence": 204208100,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "Doshi provides a crypto wallet targeted to teenagers and parents.",
+      "website": "https://www.doshi.app/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Courses and educational material"
+      ]
+    },
+    {
+      "rank": 97,
+      "company": "Confidante",
+      "totalRaisedPence": 201998200,
+      "region": "North West",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Confidante develops workflow management software for financial planners and wealth managers.",
+      "website": "https://confidante.cloud/",
+      "industries": [
+        "Application software",
+        "Budgeting and financial management",
+        "Investment banking and corporate finance",
+        "Property and land assets investment",
+        "Property and land assets management",
+        "Wealth, asset and investment management"
+      ]
+    },
+    {
+      "rank": 98,
+      "company": "Arctal",
+      "totalRaisedPence": 200000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "5-9",
+      "description": "Arctal provides an AI generated platform designed to integrate climate factors and data in relation to financial products.",
+      "website": "https://arctal.ai/",
+      "industries": [
+        "Application software",
+        "Energy management and reduction",
+        "Investment banking and corporate finance"
+      ]
+    },
+    {
+      "rank": 99,
+      "company": "CapRelease",
+      "totalRaisedPence": 200000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": "10-24",
+      "description": "CapRelease develops a funding platform that provides loans and financing agreements to eCommerce businesses.",
+      "website": "https://www.caprelease.com/",
+      "industries": [
+        "Application software",
+        "Data provision and analysis",
+        "Funding platforms",
+        "Loans, debt and grants",
+        "Online retailing"
+      ]
+    },
+    {
+      "rank": 100,
+      "company": "Ledger Rocket",
+      "totalRaisedPence": 200000000,
+      "region": "London",
+      "stage": "Seed",
+      "employees": null,
+      "description": "Ledger Rocket develops and provides a core banking ledger and accounting platform for financial services.",
+      "website": "https://ledgerrocket.com/",
+      "industries": ["Application software"]
+    }
+  ],
+  "analytics": {
+    "count": 100,
+    "totalRaisedPence": 62230127000,
+    "medianRaisedPence": 414678600,
+    "fundingKnownCount": 100,
+    "topCount": 10,
+    "topShare": 33.00396719421768,
+    "regionKnownCount": 100,
+    "regions": [
+      {
+        "name": "London",
+        "count": 78
+      },
+      {
+        "name": "North West",
+        "count": 6
+      },
+      {
+        "name": "South West",
+        "count": 5
+      },
+      {
+        "name": "East of England",
+        "count": 3
+      },
+      {
+        "name": "East of Scotland",
+        "count": 2
+      },
+      {
+        "name": "South East",
+        "count": 2
+      },
+      {
+        "name": "East Midlands",
+        "count": 1
+      },
+      {
+        "name": "North East",
+        "count": 1
+      },
+      {
+        "name": "Wales",
+        "count": 1
+      },
+      {
+        "name": "West of Scotland",
+        "count": 1
+      }
+    ]
+  },
+  "copy": {
+    "title": "Financial technology companies: a dataset-led funding overview",
+    "metaDescription": "Explore financial technology companies in this supplied dataset, with fundraising figures, regional context and a complete company ranking.",
+    "introduction": "This dataset brings together 100 companies working across financial technology. Recorded fundraising for 100 companies totals £622,301,270, offering a view of the businesses included in this collection.",
+    "sections": [
+      {
+        "heading": "A closer look at funding",
+        "body": "Median recorded fundraising is £4,146,786. The ranking makes it possible to compare the companies within this dataset without treating it as a complete market census."
+      },
+      {
+        "heading": "Read the companies behind the figures",
+        "body": "Company descriptions and industry labels provide context for the funding data. Missing information remains unknown and the source records are preserved in the table below."
+      }
+    ]
+  }
+}

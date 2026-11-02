@@ -1,0 +1,16 @@
+node_modules/
+.nuxt/
+.nuxt-test/
+.nuxt-production/
+.nuxt-showcase/
+.output-showcase/
+.output/
+.output-test/
+.data/
+package-lock.json
+AGENTS.md
+docs/
+task-requirements/
+playwright-report/
+test-results/
+/dist
